@@ -1,0 +1,34 @@
+.{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: 0;
+    text-decoration: none;
+}
+.bloques-1{
+    margin: 0%;
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.bloque-2{
+    margin: 0%;
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.bloque-3{
+    margin: 0%;
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.bloque-4{
+    margin: 0%;
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
